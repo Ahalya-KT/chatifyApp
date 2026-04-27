@@ -1,2 +1,8 @@
 node_modules
 .env
+//userName:ahalyakt002_db_user
+//password:ikwQ8fL8R9E0KCt0
+
+
+mongodb+srv://ahalyakt002_db_user:<db_password>@cluster0.36psner.mongodb.net/?appName=Cluster0
+
