@@ -17,7 +17,6 @@ app.use(express.json())//req.body
 app.use("/api/auth",authRoutes)
 app.use("/api/message",messageRoutes)
 
-console.log(process.env.PORT);
 
 
 app.listen(PORT,()=>
